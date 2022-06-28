@@ -12,7 +12,9 @@
 ## Installation
 
 1- first download the **index.html** and **script.js**.
+
 2- Store the files in **htdocs** file in the xampp dicrctory.
+
 3-run the local host.
 
 **NOTE: This will only work on Chrome Browser.**
